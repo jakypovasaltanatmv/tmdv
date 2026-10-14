@@ -1,0 +1,11 @@
+.popularCard {
+  width: 200px;
+}
+
+.popular {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 60px;
+}

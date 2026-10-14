@@ -1,0 +1,5 @@
+.videos {
+  margin: 100px 0;
+  display: flex;
+  gap: 50px;
+}

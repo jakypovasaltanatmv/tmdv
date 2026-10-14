@@ -1,0 +1,27 @@
+#header {
+  background-color: rgb(4, 34, 58);
+  height: 100px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+.rigth {
+  display: flex;
+  gap: 30px;
+
+  input {
+    outline: none;
+  }
+}

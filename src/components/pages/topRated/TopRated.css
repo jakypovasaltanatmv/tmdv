@@ -1,0 +1,7 @@
+.TopRated{
+    display: flex;
+    margin-top: 40px;
+    gap: 60px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
