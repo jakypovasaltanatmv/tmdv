@@ -1,5 +1,5 @@
 import axios from "axios";
-import React, { useContext, useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { API_KEY } from "../../../apikey";
 import "./Popular.css";
 import MovieCard from "../movieCard/MovieCard";
